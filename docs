@@ -1,0 +1,27 @@
+mkdir -p docs/{NS,ISO,TEK17,BREEAM,Prosess,Roller,Malverk,Verktøy}
+
+touch docs/README.md
+
+# NS
+touch docs/NS/NS_3420.md docs/NS/NS_3451.md docs/NS/NS_3935.md docs/NS/NS_8175.md docs/NS/NS_8415.md
+
+# ISO
+touch docs/ISO/ISO_50001.md docs/ISO/ISO_9972.md docs/ISO/ISO_10211.md
+
+# TEK17
+touch docs/TEK17/TEK17_Kap13_Inneklima.md docs/TEK17/TEK17_Kap14_Energi.md docs/TEK17/TEK17_Referanser.md
+
+# BREEAM
+touch docs/BREEAM/BREEAM_HEA05_Lyd.md docs/BREEAM/BREEAM_ENE01_Energiytelse.md docs/BREEAM/BREEAM_MAT01_Materialer.md
+
+# Prosess
+touch docs/Prosess/B0_Prosjektvurdering.md docs/Prosess/B1_Tilbud.md docs/Prosess/B2_Kontrakt.md docs/Prosess/B3_Gjennomføring.md docs/Prosess/B4_Overlevering.md docs/Prosess/B5_Læring.md
+
+# Roller
+touch docs/Roller/Tilbudsleder.md docs/Roller/Prosjektleder.md docs/Roller/Prosjektingeniør.md docs/Roller/BREEAM-koordinator.md
+
+# Malverk
+touch docs/Malverk/Sjekkliste_Tilbud.md docs/Malverk/Forbehold_mal.md docs/Malverk/Prisregulering_mal.md docs/Malverk/FDV_sjekkliste.md
+
+# Verktøy
+touch docs/Verktøy/Kravsporing.md docs/Verktøy/Kalkylekontroll.md docs/Verktøy/Indeksregulering.md
